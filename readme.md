@@ -10,12 +10,13 @@ Universidade [Estácio de Sá (UNESA)](https://estacio.br/).
 
 [2022.1]
 
-- [x] Tema 1 - Vida Universitária
-- [x] Tema 2 - Como Estudar Melhor
-- [x] Tema 3 - Gestão do Tempo: Eficácia e Produtividade
-- [x] Tema 4 - Gestão de Carreira e Mercado de Trabalho
-- [x] Tema 5 - Finanças Pessoais e Educação Financeira
-- [x] Tema 6 - Saúde Pessoal
+Conteúdo:
+- [x] Vida Universitária
+- [x] Como Estudar Melhor
+- [x] Gestão do Tempo: Eficácia e Produtividade
+- [x] Gestão de Carreira e Mercado de Trabalho
+- [x] Finanças Pessoais e Educação Financeira
+- [x] Saúde Pessoal
 
 ---
 
