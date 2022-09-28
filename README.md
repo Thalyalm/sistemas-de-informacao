@@ -1,6 +1,6 @@
 # Curso Sistemas de Informação
 
->Projeto criado no curso de Sistemas de Informação na faculdade [Estácio](https://estacio.br/)
+>Projeto criado no curso de Sistemas de Informação na faculdade [Estácio](https://estacio.br/).
 
 ## 1° Semestre:
 
