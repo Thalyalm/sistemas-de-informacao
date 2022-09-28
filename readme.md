@@ -2,9 +2,7 @@
 
 Bacharelado em **Sistemas de Informação**.
 
-2022 - 2025.
-
-Pela Universidade Estácio de Sá.
+Pela Universidade **Estácio de Sá**.
 
 ---
 
