@@ -1,10 +1,12 @@
 # Sistemas de Informação
 
-Bacharelado em **Bacharelado em Sistemas de Informação**.
+Bacharelado em **Sistemas de Informação**.
 
 2022 - 2025.
 
-Pela Universidade Estácio de Sá ().
+Pela Universidade Estácio de Sá.
+
+---
 
 >Projeto criado no curso de Sistemas de Informação na faculdade [Estácio](https://estacio.br/).
 
