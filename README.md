@@ -2,7 +2,7 @@
 
 >Projeto criado no curso de Sistemas de Informação na faculdade [Estácio](https://estacio.br/).
 
-### 1° Semestre:
+### 01° Semestre:
 
 #### Planejamento de Carreira e Sucesso Profissional:
 
@@ -75,7 +75,7 @@
 - [x] Tema 6 - Vetores e Matrizes
 
 
-## 2° Semestre:
+### 02° Semestre:
 
 #### Entrega em Suporte em TI:
 
