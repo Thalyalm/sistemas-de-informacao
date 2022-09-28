@@ -2,8 +2,7 @@
 
 Bacharelado em **Sistemas de Informação**.
 
-Universidade [Estácio de Sá (UNESA)](https://estacio.br/).
-
+Universidade **Estácio de Sá (UNESA)**.
 ---
 
 ### Planejamento de Carreira e Sucesso Profissional:
