@@ -1,9 +1,10 @@
 # Sistemas de Informação
 
->Bacharelado em **Sistemas de Informação**.
+Bacharelado.
 
->Universidade [Estácio de Sá](https://estacio.br/).
+Universidade [Estácio de Sá](https://estacio.br/).
 
+---
 
 ### 01° Semestre:
 
