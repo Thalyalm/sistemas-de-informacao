@@ -2,7 +2,7 @@
 
 >Projeto criado no curso de Sistemas de Informação na faculdade [Estácio](https://estacio.br/).
 
-## 1° Semestre:
+### 1° Semestre:
 
 #### Planejamento de Carreira e Sucesso Profissional:
 
