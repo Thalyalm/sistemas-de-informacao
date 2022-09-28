@@ -1,6 +1,6 @@
-# Sistemas de Informação
+# Projeto Faculdade
 
-Bacharelado.
+Bacharelado em Sistemas de Informação.
 
 Universidade [Estácio de Sá](https://estacio.br/).
 
