@@ -5,10 +5,11 @@ Bacharelado em **Sistemas de Informação**.
 
 Universidade [Estácio de Sá (UNESA)](https://estacio.br/).
 
-
-### 01° Semestre:
+---
 
 #### Planejamento de Carreira e Sucesso Profissional:
+
+[2022.1]
 
 - [x] Tema 1 - Vida Universitária
 
@@ -22,7 +23,11 @@ Universidade [Estácio de Sá (UNESA)](https://estacio.br/).
 
 - [x] Tema 6 - Saúde Pessoal
 
+---
+
 #### Fundamentos de Redes de Computadores:
+
+[2022.1]
 
 - [x] Tema 1 - Introdução a Redes de Computadores e Histórico da Internet
 
@@ -36,7 +41,11 @@ Universidade [Estácio de Sá (UNESA)](https://estacio.br/).
 
 - [x] Tema 6 - Fundamentos de Administração e Seguranã em Redes de Computadores
 
+---
+
 #### Introdução e Segurança da Informação:
+
+[2022.1]
 
 - [x] Tema 1 - Princípios da Segurança e o Ciclo de Vida da Informação
 
@@ -50,7 +59,11 @@ Universidade [Estácio de Sá (UNESA)](https://estacio.br/).
 
 - [x] Tema 6 - Gestão de Continuidade do Negócio
 
+---
+
 #### Organização e Arquiterua de Computadores:
+
+[2022.1]
 
 - [x] Tema 1 - Base Computacional
 
@@ -64,7 +77,11 @@ Universidade [Estácio de Sá (UNESA)](https://estacio.br/).
 
 - [x] Tema 6 - Arquitetura em Risc X Cisc
 
+---
+
 #### Introdução a Programação Estruturada em C:
+
+[2022.1]
 
 - [x] Tema 1 - Solução de Problemas e Pensamento Computacional
 
@@ -80,9 +97,9 @@ Universidade [Estácio de Sá (UNESA)](https://estacio.br/).
 
 ---
 
-### 02° Semestre:
-
 #### Entrega em Suporte em TI:
+
+[2022.2]
 
 - [ ] Tema 1 - O Cenário de Serviços TI
 
@@ -92,7 +109,11 @@ Universidade [Estácio de Sá (UNESA)](https://estacio.br/).
 
 - [ ] Tema 4 - Processos do Centro de Suporte
 
+---
+
 #### Gestão de Infraestrutura em TI:
+
+[2022.2]
 
 - [ ] Tema 1 - Introdução a Data Center
 
@@ -102,7 +123,11 @@ Universidade [Estácio de Sá (UNESA)](https://estacio.br/).
 
 - [ ] Tema 4 - Gestão da Segurança em Data Center
 
+---
+
 #### Programação Cliente Servidor:
+
+[2022.2]
 
 - [ ] Tema 1 - Programação Cliente com Javascript
 
@@ -114,7 +139,11 @@ Universidade [Estácio de Sá (UNESA)](https://estacio.br/).
 
 - [ ] Tema 5 - Webservices
 
+---
+
 #### Banco de Dados:
+
+[2022.2]
 
 - [ ] Tema 1 - Sistema de Banco de Dados
 
@@ -128,7 +157,11 @@ Universidade [Estácio de Sá (UNESA)](https://estacio.br/).
 
 - [ ] Tema 6 - Consulta com várias tabelas no Postgresql
 
+---
+
 #### Desenvolvimento Web em HTML5, CSS, JavaScript e Php:
+
+[2022.2]
 
 - [ ] Tema 1 - O Ambiente Web Cliente X Servidor e as Tecnologias
 
