@@ -1,1 +1,1 @@
-# curso-sistemas-de-informa-o
+# Curso Sistemas de Informação
