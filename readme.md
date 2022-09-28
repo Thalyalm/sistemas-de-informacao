@@ -2,7 +2,7 @@
 
 Bacharelado em **Sistemas de Informação**.
 
-Universidade **Estácio de Sá (UNESA)**.
+Pela Universidade **Estácio de Sá (UNESA)**.
 
 ---
 
