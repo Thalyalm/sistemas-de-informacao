@@ -1,12 +1,8 @@
 # Sistemas de Informação
 
-Bacharelado em **Sistemas de Informação**.
+>Bacharelado em **Sistemas de Informação**.
 
-Pela Universidade **Estácio de Sá**.
-
----
-
->Projeto criado no curso de Sistemas de Informação na faculdade [Estácio](https://estacio.br/).
+>Pela Universidade [Estácio de Sá](https://estacio.br/).
 
 ---
 
