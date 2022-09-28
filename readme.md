@@ -2,7 +2,7 @@
 
 ### Thalyson Almeida
 
-### Bacharelado em **Bacharelado em Sistemas de Informação**. 
+Bacharelado em **Bacharelado em Sistemas de Informação**. 
 
 2022 - 2025.
 
