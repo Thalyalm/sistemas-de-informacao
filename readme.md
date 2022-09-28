@@ -10,14 +10,14 @@ Universidade [Estácio de Sá (UNESA)](https://estacio.br/).
 
 #### Planejamento de Carreira e Sucesso Profissional: - [x]
 
-|Conteúdo                                                |
-|--------------------------------------------------------|
-|- [x] Tema 1 - Vida Universitária                       |
-|- [x] Tema 2 - Como Estudar Melhor                      |
-|- [x] Tema 3 - Gestão do Tempo: Eficácia e Produtividade|
-|- [x] Tema 4 - Gestão de Carreira e Mercado de Trabalho |
-|- [x] Tema 5 - Finanças Pessoais e Educação Financeira  |
-|- [x] Tema 6 - Saúde Pessoal                            |
+|Conteúdos                                         |
+|--------------------------------------------------|
+|Tema 1 - Vida Universitária                       |
+|Tema 2 - Como Estudar Melhor                      |
+|Tema 3 - Gestão do Tempo: Eficácia e Produtividade|
+|Tema 4 - Gestão de Carreira e Mercado de Trabalho |
+|Tema 5 - Finanças Pessoais e Educação Financeira  |
+|Tema 6 - Saúde Pessoal                            |
 
 #### Fundamentos de Redes de Computadores:
 
