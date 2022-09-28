@@ -6,7 +6,7 @@ Universidade [Estácio de Sá (UNESA)](https://estacio.br/).
 
 ---
 
-#### Planejamento de Carreira e Sucesso Profissional:
+### Planejamento de Carreira e Sucesso Profissional:
 
 [2022.1]
 
@@ -19,7 +19,7 @@ Universidade [Estácio de Sá (UNESA)](https://estacio.br/).
 
 ---
 
-#### Fundamentos de Redes de Computadores:
+### Fundamentos de Redes de Computadores:
 
 [2022.1]
 
@@ -32,7 +32,7 @@ Universidade [Estácio de Sá (UNESA)](https://estacio.br/).
 
 ---
 
-#### Introdução e Segurança da Informação:
+### Introdução e Segurança da Informação:
 
 [2022.1]
 
@@ -45,7 +45,7 @@ Universidade [Estácio de Sá (UNESA)](https://estacio.br/).
 
 ---
 
-#### Organização e Arquiterua de Computadores:
+### Organização e Arquiterua de Computadores:
 
 [2022.1]
 
@@ -58,7 +58,7 @@ Universidade [Estácio de Sá (UNESA)](https://estacio.br/).
 
 ---
 
-#### Introdução a Programação Estruturada em C:
+### Introdução a Programação Estruturada em C:
 
 [2022.1]
 
@@ -71,7 +71,7 @@ Universidade [Estácio de Sá (UNESA)](https://estacio.br/).
 
 ---
 
-#### Entrega em Suporte em TI:
+### Entrega em Suporte em TI:
 
 [2022.2]
 
@@ -82,7 +82,7 @@ Universidade [Estácio de Sá (UNESA)](https://estacio.br/).
 
 ---
 
-#### Gestão de Infraestrutura em TI:
+### Gestão de Infraestrutura em TI:
 
 [2022.2]
 
@@ -93,7 +93,7 @@ Universidade [Estácio de Sá (UNESA)](https://estacio.br/).
 
 ---
 
-#### Programação Cliente Servidor:
+### Programação Cliente Servidor:
 
 [2022.2]
 
@@ -105,7 +105,7 @@ Universidade [Estácio de Sá (UNESA)](https://estacio.br/).
 
 ---
 
-#### Banco de Dados:
+### Banco de Dados:
 
 [2022.2]
 
@@ -118,7 +118,7 @@ Universidade [Estácio de Sá (UNESA)](https://estacio.br/).
 
 ---
 
-#### Desenvolvimento Web em HTML5, CSS, JavaScript e Php:
+### Desenvolvimento Web em HTML5, CSS, JavaScript e Php:
 
 [2022.2]
 
