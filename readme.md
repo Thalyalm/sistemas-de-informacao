@@ -4,6 +4,8 @@ Bacharelado em **Sistemas de Informação**.
 
 Pela Universidade **Estácio de Sá (UNESA)**.
 
+[2022-2025]
+
 ---
 
 ### Planejamento de Carreira e Sucesso Profissional:
