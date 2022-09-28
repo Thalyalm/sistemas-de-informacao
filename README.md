@@ -77,7 +77,7 @@
 
 ## 2° Semestre:
 
-#### Entrega em Suporte em TI
+#### Entrega em Suporte em TI:
 
 - [ ] Tema 1 - O Cenário de Serviços TI
 
@@ -87,7 +87,7 @@
 
 - [ ] Tema 4 - Processos do Centro de Suporte
 
-#### Gestão de Infraestrutura em TI
+#### Gestão de Infraestrutura em TI:
 
 - [ ] Tema 1 - Introdução a Data Center
 
@@ -97,7 +97,7 @@
 
 - [ ] Tema 4 - Gestão da Segurança em Data Center
 
-#### Programação Cliente Servidor
+#### Programação Cliente Servidor:
 
 - [ ] Tema 1 - Programação Cliente com Javascript
 
@@ -109,7 +109,7 @@
 
 - [ ] Tema 5 - Webservices
 
-#### Banco de Dados
+#### Banco de Dados:
 
 - [ ] Tema 1 - Sistema de Banco de Dados
 
@@ -123,7 +123,7 @@
 
 - [ ] Tema 6 - Consulta com várias tabelas no Postgresql
 
-#### Desenvolvimento Web em HTML5, CSS, JavaScript e Php
+#### Desenvolvimento Web em HTML5, CSS, JavaScript e Php:
 
 - [ ] Tema 1 - O Ambiente Web Cliente X Servidor e as Tecnologias
 
