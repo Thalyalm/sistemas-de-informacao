@@ -6,7 +6,7 @@ Universidade [Estácio de Sá (UNESA)](https://estacio.br/).
 
 ---
 
-### Planejamento de Carreira e Sucesso Profissional:
+## Planejamento de Carreira e Sucesso Profissional:
 
 [2022.1]
 
