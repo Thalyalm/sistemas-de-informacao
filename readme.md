@@ -1,6 +1,17 @@
-# Curso Sistemas de Informação
+# Sistemas de Informação
+
+### Thalyson Almeida
+
+### Bacharelado em **Bacharelado em Sistemas de Informação**. 
+
+2022 - 2025.
+
+Pela Universidade Estácio de Sá ().
+
 
 >Projeto criado no curso de Sistemas de Informação na faculdade [Estácio](https://estacio.br/).
+
+---
 
 ### 01° Semestre:
 
@@ -74,6 +85,7 @@
 
 - [x] Tema 6 - Vetores e Matrizes
 
+---
 
 ### 02° Semestre:
 
@@ -136,3 +148,5 @@
 - [ ] Tema 5 - Programação de Páginas Dinâmicas com PHP
 
 - [ ] Tema 6 - Integração do PHP com Banco de Ddos
+
+---
