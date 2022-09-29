@@ -1,15 +1,15 @@
 ### Organização e Arquiterua de Computadores:
 
-- [x] Base Computacional
+- [x] Tema 1 - Base Computacional
 
-- [x] Componentes de Hardware
+- [x] Tema 2 - Componentes de Hardware
 
-- [x] Representação de Dados
+- [x] Tema 3 - Representação de Dados
 
-- [x] Lógica Digital
+- [x] Tema 4 - Lógica Digital
 
-- [x] Processamento em Paralelo
+- [x] Tema 5 - Processamento em Paralelo
 
-- [x] Arquitetura em Risc X Cisc
+- [x] Tema 6 - Arquitetura em Risc X Cisc
 
 ---
