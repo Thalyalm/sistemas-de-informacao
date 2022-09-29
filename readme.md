@@ -9,7 +9,7 @@ Pela Universidade **Estácio de Sá (UNESA)**.
 ---
 
 * [2022.1]
-    * - [x] [Planejamento de Carreira e Sucesso Profissional](/docs/fundamentos-de-redes-de-computadores)
+    * - [x] [Planejamento de Carreira e Sucesso Profissional](/docs/fundamentos-de-redes-de-computadores.md)
     * - [x] [Fundamentos de Redes de Computadores](/docs/)
     * - [x] [Introdução e Segurança da Informação](/docs/)
     * - [x] [Organização e Arquiterua de Computadores](/docs/)
