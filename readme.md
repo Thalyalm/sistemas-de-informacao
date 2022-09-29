@@ -14,12 +14,12 @@ Pela Universidade **Estácio de Sá (UNESA)**.
     * - [x] [Introdução e Segurança da Informação](/disciplinas/2022.1/introducao-e-seguranca-da-informacao.md)
     * - [x] [Organização e Arquiterua de Computadores](/disciplinas/2022.1/organizacao-e-arquiterua-de-computadores.md)
     * - [x] [Introdução a Programação Estruturada em C](/disciplinas/2022.1/introducao-a-programacao-estruturada-em-c.md)
-    
+
 * [2022.2]
-    * - [ ] [Entrega em Suporte em TI]()
-    * - [ ] [Gestão de Infraestrutura em TI]()
-    * - [ ] [Programação Cliente Servidor]()
-    * - [ ] [Banco de Dados]()
-    * - [ ] [Desenvolvimento Web em HTML5, CSS, JavaScript e Php]()
+    * - [ ] [Entrega em Suporte em TI](/disciplinas/2022.2/entrega-em-suporte-em-ti.md)
+    * - [ ] [Gestão de Infraestrutura em TI](/disciplinas/2022.2/gestao-de-infraestrutura-em-ti.md)
+    * - [ ] [Programação Cliente Servidor](/disciplinas/2022.2/programacao-cliente-servidor.md)
+    * - [ ] [Banco de Dados](/disciplinas/2022.2/banco-de-dados.md)
+    * - [ ] [Desenvolvimento Web em HTML5, CSS, JavaScript e Php](/disciplinas/2022.2/desenvolvimento-web-em-htlm5-css-javascript-e-php.md)
 
 ---
