@@ -1,4 +1,4 @@
-### Organização e Arquiterua de Computadores:
+### Organização e Arquitetura de Computadores:
 
 - [x] Tema 1 - Base Computacional
 
