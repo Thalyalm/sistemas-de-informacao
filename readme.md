@@ -9,11 +9,11 @@ Pela Universidade **Estácio de Sá (UNESA)**.
 ---
 
 * [2022.1]
-    * - [x] [Planejamento de Carreira e Sucesso Profissional]()
-    * - [x] [Fundamentos de Redes de Computadores]()
-    * - [x] [Introdução e Segurança da Informação]()
-    * - [x] [Organização e Arquiterua de Computadores]()
-    * - [x] [Introdução a Programação Estruturada em C]()
+    * - [x] [Planejamento de Carreira e Sucesso Profissional](/docs/fundamentos-de-redes-de-computadores)
+    * - [x] [Fundamentos de Redes de Computadores](/docs/)
+    * - [x] [Introdução e Segurança da Informação](/docs/)
+    * - [x] [Organização e Arquiterua de Computadores](/docs/)
+    * - [x] [Introdução a Programação Estruturada em C](/docs/)
 
 * [2022.2]
     * - [ ] [Entrega em Suporte em TI]()
