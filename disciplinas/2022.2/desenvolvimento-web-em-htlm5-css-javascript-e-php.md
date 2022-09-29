@@ -1,7 +1,5 @@
 ### Desenvolvimento Web em HTML5, CSS, JavaScript e Php:
 
-[2022.2]
-
 - [ ] Tema 1 - O Ambiente Web Cliente X Servidor e as Tecnologias
 
 - [ ] Tema 2 - Linguagem de Marcação de Hypertexto - HTML

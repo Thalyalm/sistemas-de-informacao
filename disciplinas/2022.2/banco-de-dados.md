@@ -1,7 +1,5 @@
 ### Banco de Dados:
 
-[2022.2]
-
 - [ ] Tema 1 - Sistema de Banco de Dados
 
 - [ ] Tema 2 - Projeto de Banco de Dados: Modelagem Conceitual
