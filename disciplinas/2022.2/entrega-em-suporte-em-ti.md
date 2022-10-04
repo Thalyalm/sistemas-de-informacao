@@ -1,6 +1,6 @@
 ### Entrega em Suporte em TI:
 
-- [ ] Tema 1 - O Cenário de Serviços TI
+- [x] Tema 1 - O Cenário de Serviços TI
 
 - [ ] Tema 2 - Gerenciamento Operacional
 
