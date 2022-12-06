@@ -1,4 +1,4 @@
-# Projeto Faculdade
+# Sistemas de Informação
 
 Bacharelado em **Sistemas de Informação**.
 
